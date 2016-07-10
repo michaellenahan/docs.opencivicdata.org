@@ -4,7 +4,7 @@
 Writing an Events Scraper
 ===========================
 
-Events listings are one of the more compelling datasets that we are able to collect, since it allows for near real-time updating of upcoming events. Events include hearings, meetings, or bascially anything with a date and time listed by the organization you're scraping.
+Events listings are one of the more compelling datasets that we are able to collect, since it allows for near real-time updating of upcoming events. Events include hearings, meetings, or basically anything with a date and time listed by the organization you're scraping.
 
 Target Data
 -----------
